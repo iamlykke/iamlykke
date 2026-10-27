@@ -18,36 +18,36 @@ Front-end developer based in **Novi Sad 🇷🇸**. I build sites and web apps w
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/iamlykke/my-blog">Concerts Archive</a></h4>
+      <p><b><a href="https://github.com/iamlykke/my-blog">Concerts Archive</a></b></p>
       <p>Every concert I've been to since 2011: artists, cities and venues on an interactive map.</p>
       <p><code>Next.js 16</code> <code>React 19</code> <code>Tailwind 4</code> <code>MDX</code> <code>Leaflet</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/iamlykke/personal-site">Personal site</a></h4>
+      <p><b><a href="https://github.com/iamlykke/personal-site">Personal site</a></b></p>
       <p>A one-screen bento portfolio with two moods you can switch between: Casual and Formal.</p>
       <p><code>Astro</code> <code>TypeScript</code> <code>GSAP</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/iamlykke/vojvodina-fc">FK Vojvodina</a></h4>
+      <p><b><a href="https://github.com/iamlykke/vojvodina-fc">FK Vojvodina</a></b></p>
       <p>A redesign of the football club's website in three languages: Latin, Cyrillic and English.</p>
       <p><code>Next.js 16</code> <code>App Router</code> <code>CSS Modules</code> <code>i18n</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/iamlykke/brand-guidelines">Brand Guidelines</a></h4>
+      <p><b><a href="https://github.com/iamlykke/brand-guidelines">Brand Guidelines</a></b></p>
       <p>An interactive brand book for Redo: strategy, logo, color, typography and art direction.</p>
       <p><code>Astro</code> <code>CSS</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/iamlykke/insta-unfollowers">Insta Unfollowers</a></h4>
+      <p><b><a href="https://github.com/iamlykke/insta-unfollowers">Insta Unfollowers</a></b></p>
       <p>A small tool that shows who doesn't follow you back on Instagram.</p>
       <p><code>Astro</code> <code>React</code> <code>shadcn/ui</code> <code>Tailwind</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/iamlykke/austris-app">Austris</a> <sub><i>in progress</i></sub></h4>
+      <p><b><a href="https://github.com/iamlykke/austris-app">Austris</a></b> <sub><i>in progress</i></sub></p>
       <p>An online shop for handmade candles, with Supabase as the backend.</p>
       <p><code>Next.js</code> <code>Supabase</code> <code>Tailwind</code> <code>Swiper</code></p>
     </td>
