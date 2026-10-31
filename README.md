@@ -11,7 +11,7 @@
 
 ### 👋 Hi, I'm Sergei
 
-Front-end developer based in **Novi Sad 🇷🇸**. I build sites and web apps with **TypeScript, React, Next.js and Astro**, and I care about the details: motion, typography and pages that load fast.
+Senior Front-end developer based in **Novi Sad 🇷🇸**. I build sites and web apps with **TypeScript, React, Next.js and Astro**, and I care about the details: motion, typography and pages that load fast.
 
 ### 🚀 Featured projects
 
