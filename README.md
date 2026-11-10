@@ -47,10 +47,10 @@ Senior Front-end developer based in **Novi Sad 🇷🇸**. I build sites and web
       <p><code>Astro</code> <code>React</code> <code>shadcn/ui</code> <code>Tailwind</code></p>
     </td>
     <td width="50%" valign="top">
-      <p><b><a href="https://github.com/iamlykke/austris-app">Austris</a></b> <sub><i>in progress</i></sub></p>
-      <p>An online shop for handmade candles, with Supabase as the backend.</p>
-      <p><code>Next.js</code> <code>Supabase</code> <code>Tailwind</code> <code>Swiper</code></p>
-    </td>
+      <p><b><a href="https://github.com/iamlykke/tv-news">TV-News</a></b></p>
+      <p>Slides for TVs: images and videos on a loop, plus automatic birthday and work-anniversary slides, with an admin panel behind Google sign-in.</p>
+      <p><code>Next.js</code> <code>Prisma</code> <code>Supabase</code> <code>NextAuth</code> <code>Tailwind</code><code>daisyUI</code></p>
+</td>
   </tr>
 </table>
 
