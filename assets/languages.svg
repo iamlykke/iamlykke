@@ -14,44 +14,44 @@
   </style>
   <rect x="0.5" y="0.5" width="559" height="209" rx="12" class="card"/>
   <text x="28" y="44" class="h">Most used languages</text>
-  <text x="532" y="44" class="m" text-anchor="end">18 repos · 2026-11-09</text>
+  <text x="532" y="44" class="m" text-anchor="end">18 repos · 2026-11-16</text>
   <clipPath id="bar"><rect x="28" y="66" width="504" height="12" rx="6"/></clipPath>
   <g clip-path="url(#bar)">
-    <rect x="28.0" y="66" width="314.0" height="12" fill="#3178c6" class="grow" style="animation-delay:0s"/>
-    <rect x="342.0" y="66" width="78.3" height="12" fill="#ff5d01" class="grow" style="animation-delay:0.12s"/>
-    <rect x="420.2" y="66" width="73.3" height="12" fill="#663399" class="grow" style="animation-delay:0.24s"/>
-    <rect x="493.5" y="66" width="18.7" height="12" fill="#e34c26" class="grow" style="animation-delay:0.36s"/>
-    <rect x="512.2" y="66" width="13.7" height="12" fill="#8b949e" class="grow" style="animation-delay:0.48s"/>
-    <rect x="525.9" y="66" width="6.1" height="12" fill="#8b949e" class="grow" style="animation-delay:0.6s"/>
+    <rect x="28.0" y="66" width="345.6" height="12" fill="#3178c6" class="grow" style="animation-delay:0s"/>
+    <rect x="373.6" y="66" width="63.0" height="12" fill="#663399" class="grow" style="animation-delay:0.12s"/>
+    <rect x="436.6" y="66" width="62.7" height="12" fill="#ff5d01" class="grow" style="animation-delay:0.24s"/>
+    <rect x="499.3" y="66" width="15.9" height="12" fill="#e34c26" class="grow" style="animation-delay:0.36s"/>
+    <rect x="515.1" y="66" width="11.6" height="12" fill="#8b949e" class="grow" style="animation-delay:0.48s"/>
+    <rect x="526.8" y="66" width="5.2" height="12" fill="#8b949e" class="grow" style="animation-delay:0.6s"/>
   </g>
     <g>
       <circle cx="34" cy="107" r="6" fill="#3178c6"/>
       <text x="48" y="112" class="t">TypeScript</text>
-      <text x="264" y="112" class="m" text-anchor="end">62.3%</text>
+      <text x="264" y="112" class="m" text-anchor="end">68.6%</text>
     </g>
     <g>
-      <circle cx="286" cy="107" r="6" fill="#ff5d01"/>
-      <text x="300" y="112" class="t">Astro</text>
-      <text x="516" y="112" class="m" text-anchor="end">15.5%</text>
+      <circle cx="286" cy="107" r="6" fill="#663399"/>
+      <text x="300" y="112" class="t">CSS</text>
+      <text x="516" y="112" class="m" text-anchor="end">12.5%</text>
     </g>
     <g>
-      <circle cx="34" cy="137" r="6" fill="#663399"/>
-      <text x="48" y="142" class="t">CSS</text>
-      <text x="264" y="142" class="m" text-anchor="end">14.5%</text>
+      <circle cx="34" cy="137" r="6" fill="#ff5d01"/>
+      <text x="48" y="142" class="t">Astro</text>
+      <text x="264" y="142" class="m" text-anchor="end">12.4%</text>
     </g>
     <g>
       <circle cx="286" cy="137" r="6" fill="#e34c26"/>
       <text x="300" y="142" class="t">HTML</text>
-      <text x="516" y="142" class="m" text-anchor="end">3.7%</text>
+      <text x="516" y="142" class="m" text-anchor="end">3.1%</text>
     </g>
     <g>
       <circle cx="34" cy="167" r="6" fill="#8b949e"/>
       <text x="48" y="172" class="t">Swift</text>
-      <text x="264" y="172" class="m" text-anchor="end">2.7%</text>
+      <text x="264" y="172" class="m" text-anchor="end">2.3%</text>
     </g>
     <g>
       <circle cx="286" cy="167" r="6" fill="#8b949e"/>
       <text x="300" y="172" class="t">Other</text>
-      <text x="516" y="172" class="m" text-anchor="end">1.2%</text>
+      <text x="516" y="172" class="m" text-anchor="end">1.0%</text>
     </g>
 </svg>
